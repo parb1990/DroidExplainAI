@@ -1,1 +1,5 @@
 
+App,READ_SMS,SEND_SMS,INTERNET,execve,socket,Label
+App1,1,1,1,1,1,Malware
+App2,0,0,1,0,0,Benign
+App3,1,0,1,1,0,Malware
