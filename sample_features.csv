@@ -1,0 +1,7 @@
+READ_SMS,SEND_SMS,INTERNET,execve,socket,Label
+1,1,1,1,1,Malware
+0,0,1,0,0,Benign
+1,0,1,1,0,Malware
+0,0,1,0,1,Benign
+1,1,1,0,1,Malware
+0,0,1,0,0,Benign
